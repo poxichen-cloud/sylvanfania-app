@@ -137,7 +137,7 @@ export default function App() {
           )}
         </Tab.Screen>
 
-        <Tab.Screen name="照片牆">
+        <Tab.Screen name="照片牆11">
           {() => (
             <PhotoWallScreen
               characters={characters}
